@@ -20,5 +20,5 @@
 
 ## Contatos 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="Linkedin" height='30'/> (https://www.linkedin.com/in/pedro-moreira-8a734b231/)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="Linkedin" height='30'>https://www.linkedin.com/in/pedro-moreira-8a734b231/
           
