@@ -31,8 +31,6 @@ Sou desenvolvedor **Front-End**, apaixonado por tecnologia, jogos digitais, perf
 
 ## 📊 **Minhas Métricas do GitHub**
 
-> *Geradas automaticamente pelo GitHub Actions (Metrics)*
-
 <div align="center">
 
 ![Metrics](https://raw.githubusercontent.com/ppeu1302/ppeu1302/main/github-metrics.svg)
@@ -61,7 +59,7 @@ Sou desenvolvedor **Front-End**, apaixonado por tecnologia, jogos digitais, perf
 
 ---**
 
-> *Geradas automaticamente pelo GitHub Actions (Metrics)*
+> 
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/ppeu1302/ppeu1302/main/github-metrics.svg" alt="GitHub Metrics" />
