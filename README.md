@@ -5,18 +5,22 @@
 <img loading=lazy src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/>  <img loading=lazy src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/>
 
                    
-##Detalhes
+## 📊 Estatísticas do GitHub
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ppeu1302&show_icons=true&theme=dark)](https://github.com/ppeu1302/github-readme-stats)
+![Metrics](https://raw.githubusercontent.com/ppeu1302/ppeu1302/main/github-metrics.svg)
 
+---
 
-## Projetos
+## 🏆 Stats
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ppeu1302&repo=site_autofan&theme=dark)](https://github.com/ppeu1302/site_autofan)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ppeu1302&show_icons=true&theme=dracula)
 
-## Linguagens mais usadas
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ppeu1302&theme=dark)](https://github.com/ppeu1302/github-readme-stats)
+## 📈 Linguagens mais utilizadas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ppeu1302&layout=compact&theme=dracula)
+
 
 ## Contatos 
 
